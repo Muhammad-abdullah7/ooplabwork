@@ -1,0 +1,7 @@
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 2\Task2\Task2\bin\Debug\Task2.exe.config
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 2\Task2\Task2\bin\Debug\Task2.exe
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 2\Task2\Task2\bin\Debug\Task2.pdb
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 2\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 2\Task2\Task2\obj\Debug\Task2.exe
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 2\Task2\Task2\obj\Debug\Task2.pdb
