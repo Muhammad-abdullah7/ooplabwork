@@ -1,0 +1,21 @@
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 3\TASK2\TASK2\bin\Debug\TASK2.exe.config
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 3\TASK2\TASK2\bin\Debug\TASK2.exe
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 3\TASK2\TASK2\bin\Debug\TASK2.pdb
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 3\TASK2\TASK2\obj\Debug\TASK2.csproj.AssemblyReference.cache
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 3\TASK2\TASK2\obj\Debug\TASK2.csproj.CoreCompileInputs.cache
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 3\TASK2\TASK2\obj\Debug\TASK2.exe
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUAL\week 3\TASK2\TASK2\obj\Debug\TASK2.pdb
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUALS\week 3\TASK2\TASK2\bin\Debug\TASK2.exe.config
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUALS\week 3\TASK2\TASK2\bin\Debug\TASK2.exe
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUALS\week 3\TASK2\TASK2\bin\Debug\TASK2.pdb
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUALS\week 3\TASK2\TASK2\obj\Debug\TASK2.csproj.AssemblyReference.cache
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUALS\week 3\TASK2\TASK2\obj\Debug\TASK2.csproj.CoreCompileInputs.cache
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUALS\week 3\TASK2\TASK2\obj\Debug\TASK2.exe
+D:\NUMAIR\UET\SEMESTER 2\OOP\LAB MANUALS\week 3\TASK2\TASK2\obj\Debug\TASK2.pdb
+C:\Users\HP\Desktop\2nd sem\oop\oopl\Week 4\OOP-SEMESTER-2-main\OOP-SEMESTER-2-main\LAB MANUALS\week 3\Task2\TASK2\bin\Debug\TASK2.exe.config
+C:\Users\HP\Desktop\2nd sem\oop\oopl\Week 4\OOP-SEMESTER-2-main\OOP-SEMESTER-2-main\LAB MANUALS\week 3\Task2\TASK2\bin\Debug\TASK2.exe
+C:\Users\HP\Desktop\2nd sem\oop\oopl\Week 4\OOP-SEMESTER-2-main\OOP-SEMESTER-2-main\LAB MANUALS\week 3\Task2\TASK2\bin\Debug\TASK2.pdb
+C:\Users\HP\Desktop\2nd sem\oop\oopl\Week 4\OOP-SEMESTER-2-main\OOP-SEMESTER-2-main\LAB MANUALS\week 3\Task2\TASK2\obj\Debug\TASK2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\2nd sem\oop\oopl\Week 4\OOP-SEMESTER-2-main\OOP-SEMESTER-2-main\LAB MANUALS\week 3\Task2\TASK2\obj\Debug\TASK2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2nd sem\oop\oopl\Week 4\OOP-SEMESTER-2-main\OOP-SEMESTER-2-main\LAB MANUALS\week 3\Task2\TASK2\obj\Debug\TASK2.exe
+C:\Users\HP\Desktop\2nd sem\oop\oopl\Week 4\OOP-SEMESTER-2-main\OOP-SEMESTER-2-main\LAB MANUALS\week 3\Task2\TASK2\obj\Debug\TASK2.pdb
